@@ -4,7 +4,7 @@ using UnityEngine.XR.Interaction.Toolkit;
 public class ScavengerHuntManager : MonoBehaviour
 {
     [Header("Rules")]
-    public int requiredCount = 3;
+    public int requiredCount = 5;
     public float timeLimitSeconds = 180f; // 3 minutes
 
     [Header("References")]
@@ -15,7 +15,7 @@ public class ScavengerHuntManager : MonoBehaviour
     private int depositedCount;
     private bool finished;
 
-    // Simple world text (no UI system required)
+    
     private TextMesh messageText;
 
     void Start()
