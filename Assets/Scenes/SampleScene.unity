@@ -11747,8 +11747,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 40242d08c96ad6c4cacf6becf1c4905a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ScavengerHuntManager
-  requiredCount: 3
-  timeLimitSeconds: 180
+  requiredCount: 5
+  timeLimitSeconds: 300
   xrCamera: {fileID: 1362361287}
   worldMessagePrefab: {fileID: 0}
 --- !u!4 &1904366886
