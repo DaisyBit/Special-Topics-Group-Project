@@ -1,0 +1,29 @@
+{
+    "GuideBot": {
+        "checkpoints": [
+            {
+                "steps": 20963,
+                "file_path": "results\\GuideBotRun4\\GuideBot\\GuideBot-20963.onnx",
+                "reward": null,
+                "creation_time": 1776832485.7068164,
+                "auxillary_file_paths": [
+                    "results\\GuideBotRun4\\GuideBot\\GuideBot-20963.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 20963,
+            "file_path": "results\\GuideBotRun4\\GuideBot.onnx",
+            "reward": null,
+            "creation_time": 1776832485.7068164,
+            "auxillary_file_paths": [
+                "results\\GuideBotRun4\\GuideBot\\GuideBot-20963.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.11.0+cpu"
+    }
+}
